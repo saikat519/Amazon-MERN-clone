@@ -1,0 +1,20 @@
+
+ .row  {
+   display:flex;
+   justify-content: center; 
+   margin-top:25px; 
+   margin-bottom:25px; 
+ }
+
+ .product {
+   display: flex;
+   flex-direction: row;
+   max-width:350px;
+   float:right;
+   justify-content: space-evenly;
+ }
+  
+  .home__image {
+    width: 100%;
+    z-index: -1;
+  }

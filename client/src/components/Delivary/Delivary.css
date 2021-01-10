@@ -1,0 +1,33 @@
+.amazon__logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .addressForm > input {
+      width:80%;
+      height: 40px;
+      padding:5px;
+      border: 1px solid black;
+      margin-bottom: 10px;
+  }
+
+  .addressForm > textarea {
+    width:80%;
+    padding:5px;
+    border: 1px solid black;
+}
+
+
+.mid {
+
+    display:flex;
+}
+
+.left {
+    flex:0.8;
+}
+

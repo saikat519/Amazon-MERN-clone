@@ -1,0 +1,11 @@
+.orders {
+    padding: 20px 80px;
+}
+
+.orders > h3 {
+    margin: 30px 0;
+}
+
+.orders__header {
+    height:200px;
+}
